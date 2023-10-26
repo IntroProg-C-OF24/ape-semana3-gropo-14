@@ -12,7 +12,10 @@ public class Ejercicio01 {
         int variable4 = 3;
         int variable5 = 5;
         int variable6 = 81;
+<<<<<<< HEAD
 
+=======
+>>>>>>> baaef8d044a9633204983183a81fe08fba2a0254
         System.out.println("-------Solución a problema------------------");
         // Math.sqrt me permite obtener la raíz cuadrada de un número
         
