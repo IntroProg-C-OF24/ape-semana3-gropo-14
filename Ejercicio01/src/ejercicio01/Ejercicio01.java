@@ -1,8 +1,15 @@
+<<<<<<< HEAD
+package ejercicio01;
+public class Ejercicio01 {
+
+
+=======
  
 package ejercicio01;
 
 public class Ejercicio01 {
 
+>>>>>>> f0ddd8099882c5ff26114b49144c820c1da77ed9
     public static void main(String[] args) {
         // Solución a la problemática
 
@@ -14,12 +21,8 @@ public class Ejercicio01 {
         int variable6 = 81;
         System.out.println("-------Solución a problema------------------");
         // Math.sqrt me permite obtener la raíz cuadrada de un número
-        
         double resultado = (variable1 + variable2 + variable3 + variable4) / 
                 variable5 + Math.sqrt(variable6);
-        
-        
-        
         System.out.println(resultado);
 
     }
